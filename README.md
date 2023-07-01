@@ -46,3 +46,40 @@ Areas of concern to consider when applying AI to a problem:
 - Pernsonally identifiable inromation (PPI) should be treated with care and most likely not stored. This data should not be published or archived since it could be used to oppress certain groups of people.
   - An example is not publishing the location of endangered species, since poachers could use this information to find and kill them.
 - Consider the advice from all stakeholders that would be impacted by the project.
+
+#### Week 2
+
+A good problem statement should:
+
+1. Be clear, concise, and specific
+2. Identify key stakeholders
+3. Give an idea of what success looks like
+4. Not mention the specific technology you aim to deploy
+
+At the end of the "Explore" phase, we should be able to answer the following questions:
+
+- What is the specific problem you we are addressing?
+- Who are the stakeholders?
+- Do we have access to or can we collect the data we need?
+- Could AI add value? Where and how specifically?
+- How does the "do no harm" principle come into play?
+
+After the "Design" phase, we should be able to answer the following questions:
+
+- How will we address issues with imbalances, biases, privacy, or other concerns with your data?
+- What kind of model will you implement, and how will you measure its performance?
+- How will your design address the problem you set out to work on?
+- how will the end user interact with your system?
+
+After the "Implement" phase, we should be able to answer the following questions:
+
+- Is our model performance acceptable?
+- Are end users able to successfully use our system?
+
+![AI is only part of the solution](images/3_Solution.png)
+
+
+
+## References
+
+All material derived from the [AI for Good Specialization](https://www.coursera.org/specializations/ai-for-good) on Coursera.
