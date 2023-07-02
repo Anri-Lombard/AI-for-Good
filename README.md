@@ -78,6 +78,24 @@ After the "Implement" phase, we should be able to answer the following questions
 
 ![AI is only part of the solution](images/3_Solution.png)
 
+### AI and Climate Change
+
+#### Week 1
+
+![Global Warming Projections](images/4_Projections.png)
+
+![Resilience Strategies](images/5_Resilience.png)
+
+
+#### Week 2
+
+...
+
+#### Week 3
+
+![Extinction Rates](images/6_Extinction.png)
+
+
 
 
 ## References
