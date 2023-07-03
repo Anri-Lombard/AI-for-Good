@@ -95,6 +95,22 @@ After the "Implement" phase, we should be able to answer the following questions
 
 ![Extinction Rates](images/6_Extinction.png)
 
+- The preservation and restoration of biodiversity is a key component of climate change mitigation and adaptation.
+- Some experts suggest that we are currently in the midst of the sixth mass extinction event in the history of the planet and that humans play a major role in causing it.
+
+#### Week 4
+
+We do not have to train the model from scratch in each case. In this case, we could use a pre-trained model already trained by Microsoft (MegaDetector) and simply fine-tune it to our specific use case.
+
+### AI and Disaster Management
+
+#### Week 1
+
+A disaster is a sudden, calamitous event that seriously disrupts the functioning of a community or society and causes human, material, and economic or environmental losses that exceed the community’s or society’s ability to cope using its own resources.
+
+![Politics in Disaster Management](images/7_Politics.png)
+
+![Cycle of Disaster Management](images/8_Cycle.png)
 
 
 
