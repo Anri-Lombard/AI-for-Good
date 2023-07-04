@@ -283,7 +283,7 @@ def add_extra_features(df: pd.core.frame.DataFrame) -> pd.core.frame.DataFrame:
     Returns:
         df (pd.core.frame.DataFrame): The updated dataframe with new columns.
     '''
-    stations = pd.read_csv('data/stations_loc.csv')
+    stations = pd.read_csv('../data/stations_loc.csv')
     stations = stations[['Sigla', 'Latitud', 'Longitud']]
     stations = stations.rename(columns={'Sigla': 'Station', 'Latitud': 'Latitude', 'Longitud': 'Longitude'})
 
