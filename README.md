@@ -110,7 +110,25 @@ A disaster is a sudden, calamitous event that seriously disrupts the functioning
 
 ![Politics in Disaster Management](images/7_Politics.png)
 
-![Cycle of Disaster Management](images/8_Cycle.png)
+![The Cycle of Disaster Management](images/8_Cycle.png)
+
+Laboratory solutions should not be deployed during a disaster or shortly after. This is because the laboratory environment is very different from the real world and the model will not perform as well as it did in the lab.
+
+Work that does not harm is most likely to succeed if done in the recovery, preparation, or mitigation phases, instead of the response phase.
+
+1. Work on general-purpose technologies to help communities help themselves.
+2. Support low-resource languages with better technologies like translation and search.
+3. Default to private data practices. Aggregate data and ML models can amplify privacy risks.
+4. Avoid projects that involve analysis of social media data and work funded by oppressive governments.
+5. Engage with impacted communities.
+
+#### Week 2
+
+
+
+
+
+
 
 
 
