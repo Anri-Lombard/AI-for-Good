@@ -84,13 +84,7 @@ After the "Implement" phase, we should be able to answer the following questions
 
 ![Global Warming Projections](images/4_Projections.png)
 
-![Resilience Strategies](images/5_Resilience.png)
-
-
-#### Week 2
-
-...
-
+![Resilience Strategies](images/5_Resilience.png
 #### Week 3
 
 ![Extinction Rates](images/6_Extinction.png)
@@ -124,7 +118,10 @@ Work that does not harm is most likely to succeed if done in the recovery, prepa
 
 #### Week 2
 
-...
+Overhead imagery is a good source of data for disaster management. It can be used to identify damaged buildings, flooded areas, and other useful information.
+
+- Satellites
+- Planes and drones
 
 #### Week 3
 
