@@ -6,9 +6,9 @@ AI for Good Specialisation by DeepLearning.ai
 
 ### AI and Public Health
 
-#### Week 1
+#### Week 1.1
 
-"AI for Good" is a term used for AI that provide support and prevents, mitigates, or resolves problems affecting human life or the environment. In this specialization we focus on how it does this in the environment, health, justice, and humanitarian action sectors.
+"AI for Good" is a term used for AI that provides support and prevents, mitigates, or resolves problems affecting human life or the environment. In this specialization, we focus on how it does this in the environment, health, justice, and humanitarian action sectors.
 
 AI applications make decisions based on historical data. If the data is biased, the AI will be biased.
 
@@ -43,11 +43,11 @@ Deep Learning is a subset of Machine Learning, which is a subset of AI.
 Areas of concern to consider when applying AI to a problem:
 
 - Is AI the right solution? This needs to be figured out early so that time and resources are not wasted.
-- Pernsonally identifiable inromation (PPI) should be treated with care and most likely not stored. This data should not be published or archived since it could be used to oppress certain groups of people.
+- Personally identifiable information (PPI) should be treated with care and most likely not stored. This data should not be published or archived since it could be used to oppress certain groups of people.
   - An example is not publishing the location of endangered species, since poachers could use this information to find and kill them.
 - Consider the advice from all stakeholders that would be impacted by the project.
 
-#### Week 2
+#### Week 1.2
 
 A good problem statement should:
 
@@ -58,7 +58,7 @@ A good problem statement should:
 
 At the end of the "Explore" phase, we should be able to answer the following questions:
 
-- What is the specific problem you we are addressing?
+- What is the specific problem we are addressing?
 - Who are the stakeholders?
 - Do we have access to or can we collect the data we need?
 - Could AI add value? Where and how specifically?
@@ -80,27 +80,28 @@ After the "Implement" phase, we should be able to answer the following questions
 
 ### AI and Climate Change
 
-#### Week 1
+#### Week 2.1
 
 ![Global Warming Projections](images/4_Projections.png)
 
-![Resilience Strategies](images/5_Resilience.png
-#### Week 3
+![Resilience Strategies](images/5_Resilience.png)
+
+#### Week 2.3
 
 ![Extinction Rates](images/6_Extinction.png)
 
 - The preservation and restoration of biodiversity is a key component of climate change mitigation and adaptation.
 - Some experts suggest that we are currently in the midst of the sixth mass extinction event in the history of the planet and that humans play a major role in causing it.
 
-#### Week 4
+#### Week 2.4
 
 We do not have to train the model from scratch in each case. In this case, we could use a pre-trained model already trained by Microsoft (MegaDetector) and simply fine-tune it to our specific use case.
 
 ### AI and Disaster Management
 
-#### Week 1
+#### Week 3.1
 
-A disaster is a sudden, calamitous event that seriously disrupts the functioning of a community or society and causes human, material, and economic or environmental losses that exceed the community’s or society’s ability to cope using its own resources.
+A disaster is a sudden, calamitous event that seriously disrupts the functioning of a community or society and causes human, material, and economic or environmental losses that exceed the community’s or society’s ability to cope using its resources.
 
 ![Politics in Disaster Management](images/7_Politics.png)
 
@@ -116,22 +117,13 @@ Work that does not harm is most likely to succeed if done in the recovery, prepa
 4. Avoid projects that involve analysis of social media data and work funded by oppressive governments.
 5. Engage with impacted communities.
 
-#### Week 2
+#### Week 3.2
 
 Overhead imagery is a good source of data for disaster management. It can be used to identify damaged buildings, flooded areas, and other useful information.
 
 - Satellites
-- Planes and drones
-
-#### Week 3
-
-
-
-
-
-
-
-
+- Planes
+- Drones
 
 ## References
 
